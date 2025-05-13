@@ -1,4 +1,4 @@
 # ayanfirst.demo
-this is my firsr repository
+this is my first repository
 <br>
 Author-mohd ayan
